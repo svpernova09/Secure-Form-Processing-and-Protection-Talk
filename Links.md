@@ -6,6 +6,8 @@
 * [http://en.wikipedia.org/wiki/Twitter](http://en.wikipedia.org/wiki/Twitter)
 * [http://thehackernews.com/2013/04/hacking-facebook-users-just-from-chat.html](http://thehackernews.com/2013/04/hacking-facebook-users-just-from-chat.html)
 * [http://en.wikipedia.org/wiki/Samy_%28computer_worm%29](http://en.wikipedia.org/wiki/Samy_%28computer_worm%29)
+* [http://jeremiahgrossman.blogspot.com/2008/09/i-used-to-know-what-you-watched-on.html](http://jeremiahgrossman.blogspot.com/2008/09/i-used-to-know-what-you-watched-on.html)
+    * [http://seclab.stanford.edu/websec/csrf/csrf.pdf](http://seclab.stanford.edu/websec/csrf/csrf.pdf)
 * [http://en.wikipedia.org/wiki/Replay_attack](http://en.wikipedia.org/wiki/Replay_attack)
 * [https://github.com/timostamm/NonceUtil-PHP](https://github.com/timostamm/NonceUtil-PHP)
 * [https://www.getpantheon.com/blog/nonce-upon-time-wordpress](https://www.getpantheon.com/blog/nonce-upon-time-wordpress)
@@ -23,3 +25,10 @@
 * [https://leanpub.com/buildingsecurephpapps](https://leanpub.com/buildingsecurephpapps)
 * [http://securingphp.com](http://securingphp.com)
 * [http://www.phparch.com/magazine/2014-2/august/](http://www.phparch.com/magazine/2014-2/august/)
+
+## XSS testing Tools
+
+* [Acunetix Web Vulnerability Scanner](http://www.acunetix.com)
+* [IBM Security AppScan](http://www-03.ibm.com/software/products/en/appscan)
+* [Burp Suite](http://portswigger.net/burp)
+* [OWASP Zed Attack Proxy Project](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
